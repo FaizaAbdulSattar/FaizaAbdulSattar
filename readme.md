@@ -1,22 +1,25 @@
-# FaizaAbdulSattar
+<!-- Master Head Banner -->
 ![MasterHead](https://github.com/user-attachments/assets/10f0fe7d-55ae-4f1a-af6b-946b6f54d3ee)
 
-
-<br clear="both">
-
+<!-- Visitor Counter -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FaizaAbdulSattar.FaizaAbdulSattar&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=FaizaAbdulSattar.FaizaAbdulSattar&" />
 </div>
 
-<h2 align="center">Assalam U Alaikum !,👋<br> I am <strong>Faiza Abdul Sattar</strong><br>
-As a Flutter developer, I'm passionate about building beautiful cross-platform mobile apps and continuously improving my skills in the tech world.<br>
+<!-- Stand with Palestine Banner -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="I Stand With Palestine" />
+</div>
+
+<!-- Intro -->
+<h2 align="center">Assalam U Alaikum ! 👋<br> I am <strong>Faiza Abdul Sattar</strong><br>
+As a Flutter developer, I'm passionate about building beautiful cross-platform mobile apps and continuously improving my skills in the tech world.
 </h2>
 
 <br clear="both">
 
+<!-- Motivational Ayahs Section -->
 <h2 align="center">📖 Best Quranic Duas & Motivational Ayahs</h2>
-
-<br clear="both">
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img height="250" src="https://github.com/SyedMuhammadArsalanShah/SyedMuhammadArsalanShah/blob/master/images/i2.jpg" alt="Dua Image 1" style="margin: 0 20px;" />
@@ -26,9 +29,10 @@ As a Flutter developer, I'm passionate about building beautiful cross-platform m
 
 <br clear="both">
 
+<!-- Skills -->
 <h2 align="center">🚀 Professional Skills</h2>
 
-### Mobile & Cross-Platform Development
+### 📱 Mobile & Cross-Platform Development
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="42" alt="flutter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" width="42" alt="dart logo" />
@@ -36,7 +40,7 @@ As a Flutter developer, I'm passionate about building beautiful cross-platform m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" width="42" alt="apple logo" />
 </div>
 
-### Databases
+### 🗄️ Databases
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" width="42" alt="oracle logo" />
@@ -44,13 +48,13 @@ As a Flutter developer, I'm passionate about building beautiful cross-platform m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo" />
 </div>
 
-### Version Control & Collaboration
+### 🔧 Version Control & Collaboration
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" />
 </div>
 
-### Web Design & Frontend Development
+### 🎨 Web Design & Frontend Development
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
@@ -59,7 +63,7 @@ As a Flutter developer, I'm passionate about building beautiful cross-platform m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo" />
 </div>
 
-### Design & Prototyping
+### 🖌️ Design & Prototyping
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="42" alt="photoshop logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="42" alt="illustrator logo" />
@@ -69,6 +73,7 @@ As a Flutter developer, I'm passionate about building beautiful cross-platform m
 
 <br clear="both">
 
+<!-- GitHub Stats -->
 <h2 align="center"> 📈 My GitHub Insights 📊</h2>
 
 <div align="center">
@@ -77,3 +82,11 @@ As a Flutter developer, I'm passionate about building beautiful cross-platform m
   <img src="https://streak-stats.demolab.com?user=FaizaAbdulSattar&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FaizaAbdulSattar&radius=16&theme=react&area=true&hide_border=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+<!-- Final Motivational Quote -->
+<hr>
+
+<p align="center">
+  <b>“Strive for excellence in this world and the Hereafter.” 🌟</b><br>
+  <em>- Faiza Abdul Sattar</em>
+</p>
